@@ -7,6 +7,9 @@ obj/
 *.map
 *.lst
 
+# Claude Code
+.claude/
+
 # IDE files
 .cproject
 .project
